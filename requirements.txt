@@ -1,3 +1,7 @@
 huggingface_hub
 transformers
 langchain
+python-dotenv
+torch
+unstructured
+
