@@ -18,9 +18,8 @@ This script creates a chatbot that provides information on mental health plans a
 ## Usage
 
 1. Place the PDF files containing WHO mental health information in the `data` directory.
-2. Run the script using Python (e.g., `python script.py`).
-3. The script will prompt you to enter a question about WHO mental health plans and programs.
-4. The chatbot will respond with an answer based on the information extracted from the PDF files.
+2. The script will prompt you to enter a question about WHO mental health plans and programs.
+3. The chatbot will respond with an answer based on the information extracted from the PDF files.
 
 ## Note
 
